@@ -8,8 +8,8 @@ def load_data():
 
 df = load_data()
 
-st.title("Education Programs Explorer with Cascading Filters")
-st.write("Select your filter options on the sidebar. Each selection updates the next filter accordingly.")
+st.title("DP plus")
+st.write("Select filters in the sidebar to view programs that match the criteria.")
 
 # Start with the full DataFrame and update it as filters are applied
 filtered_df = df.copy()
