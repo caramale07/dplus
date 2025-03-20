@@ -45,7 +45,7 @@ id,education_level,country,university,program,ranking,academic_reputation,employ
 44,bakalavriat,İrlandiya Respublikası,University College Dublin,Landscape Architecture,126,51.4,43.5,16.6,46.4,99.1,74.8,87.2,89.8,95.6,55
 45,bakalavriat,İrlandiya Respublikası,University College Dublin,Structural Engineering with Architecture,126,51.4,43.5,16.6,46.4,99.1,74.8,87.2,89.8,95.6,55
 46,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Landscape Architecture,,,,,,,,,,,
-47,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Architecture,,,,,,,,,,,
+47,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Architecture,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 48,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Architecture,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 49,bakalavriat,İtaliya Respublikası,Polytechnic University of Milan,Architectural Design,,,,,,,,,,,
 50,bakalavriat,İtaliya Respublikası,Polytechnic University of Milan,Building and Construction Engineering,,,,,,,,,,,
@@ -204,7 +204,7 @@ id,education_level,country,university,program,ranking,academic_reputation,employ
 203,magistratura,İsrail Dövləti,Technion Israel Institute of Technology,Industrial Design,,,,,,,,,,,
 204,magistratura,İsrail Dövləti,Technion Israel Institute of Technology,Landscape Architecture,,,,,,,,,,,
 205,magistratura,İsveç Krallığı,Lund University,Architecture,75,68.3,52.5,55.5,44.6,97.4,73.4,96.7,86.5,99.6,65.6
-206,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Architecture,,,,,,,,,,,
+206,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Architecture,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 207,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Architecture,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 208,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Landscape Architecture,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 209,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Spatial Development and Infrastructure Systems,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
@@ -542,8 +542,8 @@ and Fluid Structure Interaction",2,98.5,99.5,98.2,93.9,100.0,99.6,97.4,93.4,99.7
 535,magistratura,İsrail Dövləti,Technion Israel Institute of Technology,Energy Engineering,,,,,,,,,,,
 536,magistratura,İsrail Dövləti,Technion Israel Institute of Technology,Energy,,,,,,,,,,,
 537,magistratura,İsveç Krallığı,Lund University,Sustainable Energy Engineering,75,68.3,52.5,55.5,44.6,97.4,73.4,96.7,86.5,99.6,65.6
-538,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Energy Science and Technology,,,,,,,,,,,
-539,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Nuclear Engineering,,,,,,,,,,,
+538,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Energy Science and Technology,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+539,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Nuclear Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 540,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Energy Science and Technology,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 541,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Nuclear Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 542,magistratura,İtaliya Respublikası,Free University of Bozen-Bolzano,Energy Engineering,661-670,5.8,1.5,12.8,42.6,72.3,37.4,49.3,3.4,2.0,-
@@ -667,7 +667,7 @@ Sustainability",,,,,,,,,,,
 656,magistratura,İsveç Krallığı,Stockholm University,Environmental Science - Environmental Toxicology and Chemistry,128,52.5,21.0,26.7,64.5,80.7,89.8,95.7,86.6,58.7,54.8
 657,magistratura,İsveç Krallığı,Stockholm University,Environmental Social Science,128,52.5,21.0,26.7,64.5,80.7,89.8,95.7,86.6,58.7,54.8
 658,magistratura,İsveç Krallığı,Stockholm University,Landscape Ecology,128,52.5,21.0,26.7,64.5,80.7,89.8,95.7,86.6,58.7,54.8
-659,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Environmental Sciences and Engineering,,,,,,,,,,,
+659,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Environmental Sciences and Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 660,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Environmental Sciences,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 661,magistratura,İsveçrə Konfederasiyası,University of Bern,Ecology and Evolution,161,29.7,16.1,45.9,99.3,100.0,38.0,93.8,30.7,52.1,51.2
 662,magistratura,İsveçrə Konfederasiyası,University of Lausanne,Environmental Sciences,224,28.4,18.8,36.8,61.0,100.0,54.2,79.8,51.8,51.2,43.6
@@ -969,8 +969,8 @@ Agricultural Academy",Hydrometeorology,,,,,,,,,,,
 953,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Mathematics Physics,,,,,,,,,,,
 954,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Mathematics,,,,,,,,,,,
 955,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Physics,,,,,,,,,,,
-956,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Mathematics,,,,,,,,,,,
-957,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Physics,,,,,,,,,,,
+956,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Mathematics,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+957,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Physics,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 958,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Biochemistry – Chemical Biology,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 959,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Biology,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 960,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Materials Science,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
@@ -1613,12 +1613,12 @@ Agricultural Academy",Hydrometeorology,,,,,,,,,,,
 1589,magistratura,İsveç Krallığı,Uppsala University,Biophysics,103,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3
 1590,magistratura,İsveç Krallığı,Uppsala University,Earth Science,103,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3
 1591,magistratura,İsveç Krallığı,Uppsala University,Mathematics,103,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3
-1592,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Applied Mathematics,,,,,,,,,,,
-1593,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Applied Physics,,,,,,,,,,,
-1594,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Quantum Science and Engineering,,,,,,,,,,,
-1595,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Mathematics,,,,,,,,,,,
-1596,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Molecular and Biological Chemistry,,,,,,,,,,,
-1597,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Physics,,,,,,,,,,,
+1592,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Applied Mathematics,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+1593,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Applied Physics,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+1594,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Quantum Science and Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+1595,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Mathematics,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+1596,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Molecular and Biological Chemistry,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+1597,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Physics,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 1598,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Applied Geophysics,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 1599,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Biology,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 1600,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Biomedical Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
@@ -2148,8 +2148,8 @@ Agriculture",375,34.6,8.4,4.4,46.6,7.3,12.3,88.5,30.3,74.5,31.2
 2110,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Information System Engineering,,,,,,,,,,,
 2111,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Science in Computer and Software Engineering,,,,,,,,,,,
 2112,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Software Engineering,,,,,,,,,,,
-2113,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Computer Science,,,,,,,,,,,
-2114,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Electrical and Electronic Engineering,,,,,,,,,,,
+2113,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Computer Science,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+2114,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Electrical and Electronic Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 2115,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Computer Science,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 2116,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Electrical Engineering and Information Technology,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 2117,bakalavriat,İtaliya Respublikası,Free University of Bozen-Bolzano,Computer Sciences,661-670,5.8,1.5,12.8,42.6,72.3,37.4,49.3,3.4,2.0,-
@@ -2578,11 +2578,11 @@ Systems",15,91.9,73.3,80.6,92.4,100.0,83.5,89.4,83.9,95.6,88.4
 2533,magistratura,İsveç Krallığı,Uppsala University,Computer Science,103,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3
 2534,magistratura,İsveç Krallığı,Uppsala University,Image Analysis and Machine Learning,103,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3
 2535,magistratura,İsveç Krallığı,Uppsala University,Information Systems,103,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3
-2536,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Communication Systems,,,,,,,,,,,
-2537,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Computer Science,,,,,,,,,,,
-2538,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Cyber Security,,,,,,,,,,,
-2539,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Electrical and Electronic Engineering,,,,,,,,,,,
-2540,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Neuro-X,,,,,,,,,,,
+2536,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Communication Systems,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+2537,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Computer Science,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+2538,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Cyber Security,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+2539,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Electrical and Electronic Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+2540,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Neuro-X,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 2541,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Computer Science,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 2542,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Cyber Security,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 2543,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Electrical Engineering and Information Technology,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
@@ -3149,7 +3149,7 @@ Agricultural Academy",Veterinary and Sanitary Expertise,,,,,,,,,,,
 3081,magistratura,İrlandiya Respublikası,Dublin City University,Finance,421,20.1,26.0,25.8,10.7,75.0,22.6,75.4,35.3,82.5,28.3
 3082,magistratura,İrlandiya Respublikası,Dublin City University,Financial Mathematics,421,20.1,26.0,25.8,10.7,75.0,22.6,75.4,35.3,82.5,28.3
 3083,magistratura,İrlandiya Respublikası,Trinity College Dublin,Finance,87,69.5,47.4,20.2,58.4,99.3,88.0,91.3,88.6,57.7,62.9
-3084,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Financial Engineering,,,,,,,,,,,
+3084,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Financial Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 3085,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Quantitative Finance,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 3086,magistratura,İtaliya Respublikası,University of Bologna,Quantitative Finance,133,80.8,47.8,3.7,46.6,14.5,12.3,96.0,53.8,88.4,54.1
 3087,magistratura,İtaliya Respublikası,University of Florence,Accounting and Auditing,375,34.6,8.4,4.4,46.6,7.3,12.3,88.5,30.3,74.5,31.2
@@ -3341,10 +3341,10 @@ Agricultural Academy",Veterinary and Sanitary Expertise,,,,,,,,,,,
 3273,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Materials Engineering and Physics,,,,,,,,,,,
 3274,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Materials Engineering,,,,,,,,,,,
 3275,bakalavriat,İsrail Dövləti,Technion Israel Institute of Technology,Mechanical Engineering,,,,,,,,,,,
-3276,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Chemistry and Chemical Engineering,,,,,,,,,,,
-3277,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Civil Engineering,,,,,,,,,,,
-3278,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Materials Science and Engineering,,,,,,,,,,,
-3279,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Mechanical Engineering,,,,,,,,,,,
+3276,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Chemistry and Chemical Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+3277,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Civil Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+3278,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Materials Science and Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+3279,bakalavriat,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Mechanical Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 3280,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Civil Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 3281,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Geospatial Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 3282,bakalavriat,İsveçrə Konfederasiyası,ETH Zurich,Mechanical Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
@@ -3909,11 +3909,11 @@ Engineering Science)",80,50.1,44.3,40.7,83.4,92.5,98.0,97.1,49.2,96.9,64.1
 3833,magistratura,İsrail Dövləti,Tel Aviv University,Material Science and Engineering,209,32.0,18.6,4.2,99.4,39.7,7.0,77.9,88.4,46.2,45.2
 3834,magistratura,İsrail Dövləti,Tel Aviv University,Mechanical Engineering,209,32.0,18.6,4.2,99.4,39.7,7.0,77.9,88.4,46.2,45.2
 3835,magistratura,İsveç Krallığı,Lund University,Production and Materials Engineering,75,68.3,52.5,55.5,44.6,97.4,73.4,96.7,86.5,99.6,65.6
-3836,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Chemical Engineering and Biotechnology,,,,,,,,,,,
-3837,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Civil Engineering,,,,,,,,,,,
-3838,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Materials Science and Engineering,,,,,,,,,,,
-3839,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Mechanical Engineering,,,,,,,,,,,
-3840,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Robotics,,,,,,,,,,,
+3836,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Chemical Engineering and Biotechnology,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+3837,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Civil Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+3838,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Materials Science and Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+3839,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Mechanical Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+3840,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Robotics,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 3841,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Civil Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 3842,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Quantum Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 3843,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Materials Science and Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
@@ -4378,9 +4378,9 @@ Investment Science",57,68.0,35.6,65.0,94.9,100.0,91.9,78.9,64.5,77.4,72.1
 4285,magistratura,İsveç Krallığı,Stockholm University,Statistics,128,52.5,21.0,26.7,64.5,80.7,89.8,95.7,86.6,58.7,54.8
 4286,magistratura,İsveç Krallığı,Uppsala University,Computational Science,103,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3
 4287,magistratura,İsveç Krallığı,Uppsala University,Statistics and Data Science,103,61.4,33.7,52.0,42.3,99.4,81.1,96.7,68.4,99.2,59.3
-4288,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Computational Science and Engineering,,,,,,,,,,,
-4289,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Data Science,,,,,,,,,,,
-4290,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Statistics,,,,,,,,,,,
+4288,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Computational Science and Engineering,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+4289,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Data Science,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
+4290,magistratura,İsveçrə Konfederasiyası,École Polytechnique Fédérale de Lausanne,Statistics,26,84.2,67.2,91.2,93.6,100.0,100.0,81.7,27.2,86.7,83.5
 4291,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Computational Science and Engineering,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 4292,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Data Science,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
 4293,magistratura,İsveçrə Konfederasiyası,ETH Zurich,Neural Systems and Computation,7,98.8,87.2,65.9,97.9,100.0,98.6,95.7,90.5,98.8,93.9
