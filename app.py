@@ -4,6 +4,15 @@ import pandas as pd
 # Set up the Streamlit page (optional)
 st.set_page_config(page_title="DP Plus", layout="wide")
 
+st.markdown(
+    """
+    ### 🎓 DP Plus 
+    Find universities and programs that are **eligible for sponsorship** 
+    under the **Azerbaijan State Scholarship Program (Dövlət Proqramı)**    
+    """,
+    unsafe_allow_html=True
+)
+
 # 1. Load the data
 data = pd.read_csv("DP.csv")
 
