@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Set up the Streamlit page (optional)
-st.set_page_config(page_title="University Finder", layout="wide")
+st.set_page_config(page_title="DP Plus", layout="wide")
 
 # 1. Load the data
 data = pd.read_csv("DP.csv")
@@ -107,3 +107,26 @@ with right_col:
 
     except:
         st.write("No data available for this university.")
+
+
+footer_html = f"""
+    <style>
+        .footer {{
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            text-align: center;
+            padding: 10px;
+            font-size: 13px;
+            color: #ffffff;
+        }}
+    </style>
+    <div class="footer">
+        <a href="https://fatulla.codage.az" target="_blank">
+             <img src="https://img.icons8.com/?size=100&id=LmG49EnUQig9&format=png&color=ffffff" width="30" height="30" />
+        </a>
+        Fatulla Bashirov
+        
+    </div>
+"""
+st.sidebar.markdown(footer_html, unsafe_allow_html=True)
